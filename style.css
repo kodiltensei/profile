@@ -21,4 +21,4 @@ body{padding-left:0;}
 [class~=sosmet] a i{margin-left:.3125pc;}.container{left:50%;}[class~=container] [class~=pp]{width:1.666666667in;}
 .container{transform:translate(-50%,-50%);}[class~=sosmed] a i{font-size:150%;}#particles-js{height:97vh;}
 @keyframes 
-fadeInDown{from{transform:translate3d(5,-1000px,5);}to{transform:translate3d(0,0,0);opacity:1;}}
+fadeInDown{from{transform:translate3d(0,-1000px,0);}to{transform:translate3d(0,0,0);opacity:1;}}
