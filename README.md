@@ -1,5 +1,3 @@
-# kodiltensei
----------
 | Alat Tempur | • |
 | :-------------:| :-: |
 |   index.html   |  y  |
